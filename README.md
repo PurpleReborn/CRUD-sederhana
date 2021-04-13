@@ -38,3 +38,21 @@ PHP and mySql
 
 
 ![tambah](https://user-images.githubusercontent.com/79769140/114594165-234b0780-9cb7-11eb-9b2b-e2c90df5e0c0.png)
+
+
+
+
+
+
+
+
+-Tampilan Hapus
+
+
+
+
+
+
+
+
+![hapus](https://user-images.githubusercontent.com/79769140/114594380-64dbb280-9cb7-11eb-93f5-8a133120a85e.png)
